@@ -1,0 +1,94 @@
+@media  screen and (min-width: 375px) {
+    label{
+        padding-right: 8%;
+    
+    }
+  }
+
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+.entete{
+    text-align: center;
+    background-color: rgb(9, 100, 70);
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: blue;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    border-color: blue;
+}
+
+
+ form  .B_form
+{
+    
+width: 42%;
+margin-left: 30%;
+margin-top: 20px;
+
+}
+.corps button{
+    position: ;
+}
+.corps{
+
+    background-image: url('https://media.istockphoto.com/id/517188688/fr/photo/paysage-de-montagne.jpg?s=612x612&w=0&k=20&c=pB4ewEznPPXu63-wemLp-I9O6zZmKWbsFKpyNBiMXiU=');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    height: 572px;
+    flex-direction: column;
+}
+label{
+    padding-right: 13%;
+
+}
+
+
+p{
+    padding: 3px;
+    color: white;
+}
+
+input{
+    margin-bottom:2% ;
+    padding-bottom: 2%;
+    width: 31%;
+    
+}
+select{
+    margin-bottom:10px ;
+    padding-bottom: 2%;
+    width: 97%;
+}
+
+h1{
+    margin: 16px;
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.chek{
+    width: auto;
+    margin-top: 8px;
+}
+form{
+    width: auto;
+}
